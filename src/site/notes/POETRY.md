@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"title":"诗词合集","permalink":"/poetry/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"诗词合集","dg-permalink":"诗词合集","permalink":"/诗词合集/","dgPassFrontmatter":true}
 ---
 
 # 诗
