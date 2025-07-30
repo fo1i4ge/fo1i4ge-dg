@@ -1,5 +1,5 @@
 ---
-{"title":"🏠主页","dg-publish":true,"dg-home":true,"dg-permalink":"主页","permalink":"/主页/","tags":["gardenEntry"],"dgPassFrontmatter":true}
+{"title":"🏠主页","dg-publish":true,"dg-home":true,"permalink":"/home/","tags":["gardenEntry"],"dgPassFrontmatter":true}
 ---
 
 
