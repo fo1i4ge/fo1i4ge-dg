@@ -1,8 +1,8 @@
 ---
-{"dg-publish":true,"title":"散乐集","dg-permalink":"散乐集","permalink":"/散乐集/","dgPassFrontmatter":true}
+{"dg-publish":true,"title":"散乐书","dg-permalink":"散乐书","permalink":"/散乐书/","dgPassFrontmatter":true}
 ---
 
-# 散乐集
+# 散乐书
 ## 华韵·钩沉
 问青天 铭谶言 故国墟里旧尘烟
 礼乐喧 政教延 道德文章崇冠冕
